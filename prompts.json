@@ -12,15 +12,46 @@
         "how are ya",
         "heyy",
         "whatsup",
-        "??? ??? ??"
+        "??? ??? ??",
+        "Hey there",
+        "Greetings",
+        "Hey",
+        "Hey!",
+        "Good morning",
+        "Good afternoon",
+        "How's it going?",
+        "Hey, how's everything?",
+        "Yo!",
+        "Hiya!",
+        "Hey, what's new?",
+        "Hey, how's your day?",
+        "What's happening?",
+        "Hey, howdy!",
+        "Hey, stranger!",
+        "Hey, long time no see!",
+        "Hey, it's been a while!",
+        "Hey, how have you been?"
       ],
       "responses": [
         "Hello!",
         "Good to see you again!",
-        "Hi there, how can I help?"
+        "Hi there, how can I help?",
+        "Hey!",
+        "Greetings! How can I assist you?",
+        "Hi! How's your day going?",
+        "Hey there! What can I do for you?",
+        "Hello! What brings you here today?",
+        "Hey! Nice to see you. What's up?",
+        "Hi! Ready to get started?",
+        "Hey! How can I assist you today?",
+        "Hello! How can I be of service?",
+        "Hey! How's everything going?",
+        "Hi there! What's new with you?",
+        "Hello! How have you been?"
       ],
       "context_set": ""
     },
+
     {
       "tag": "creator",
       "questions": [
@@ -460,7 +491,31 @@
         "iPhone 13 Pro price?",
         "How much is iPhone 13 Pro?",
         "Price of iPhone 13 Pro?",
-        "What is the price of iPhone 13 Pro?"
+        "What is the price of iPhone 13 Pro?",
+        "How expensive is iPhone 13 Pro?",
+        "What's the cost of iPhone 13 Pro?",
+        "Can you tell me the price of iPhone 13 Pro?",
+        "What's the price tag on iPhone 13 Pro?",
+        "iPhone 13 Pro - how much?",
+        "What's the price range for iPhone 13 Pro?",
+        "I'm interested in iPhone 13 Pro, what's the pricing?",
+        "How affordable is iPhone 13 Pro?",
+        "Is iPhone 13 Pro expensive?",
+        "What's the price point for iPhone 13 Pro?",
+        "I need to know the price of iPhone 13 Pro, can you help?",
+        "iPhone 13 Pro pricing, please?",
+        "What's the pricing like for iPhone 13 Pro?",
+        "Do you have any information on iPhone 13 Pro pricing?",
+        "Price for iPhone 13 Pro, please?",
+        "Can you give me a quote for iPhone 13 Pro?",
+        "How much do I need to budget for iPhone 13 Pro?",
+        "iPhone 13 Pro - how much does it go for?",
+        "iPhone 13 Pro - what's the cost?",
+        "What's the market price for iPhone 13 Pro?",
+        "How much money should I prepare for iPhone 13 Pro?",
+        "What's the current price for iPhone 13 Pro?",
+        "Can you provide pricing details for iPhone 13 Pro?",
+        "iPhone 13 Pro - how much will it set me back?"
       ],
       "responses": ["The price of iPhone 13 Pro 256GB Memory is $599.99."],
       "context_set": ""
@@ -469,10 +524,34 @@
     {
       "tag": "logitech_gaming_mouse_price",
       "questions": [
-        "Gaming Mouse price?",
-        "How much is Gaming Mouse?",
-        "Price of Gaming Mouse?",
-        "What is the price of Gaming Mouse?"
+        "iPhone 13 Pro price?",
+        "How much is iPhone 13 Pro?",
+        "Price of iPhone 13 Pro?",
+        "What is the price of iPhone 13 Pro?",
+        "How expensive is iPhone 13 Pro?",
+        "What's the cost of iPhone 13 Pro?",
+        "Can you tell me the price of iPhone 13 Pro?",
+        "What's the price tag on iPhone 13 Pro?",
+        "iPhone 13 Pro - how much?",
+        "What's the price range for iPhone 13 Pro?",
+        "I'm interested in iPhone 13 Pro, what's the pricing?",
+        "How affordable is iPhone 13 Pro?",
+        "Is iPhone 13 Pro expensive?",
+        "What's the price point for iPhone 13 Pro?",
+        "I need to know the price of iPhone 13 Pro, can you help?",
+        "iPhone 13 Pro pricing, please?",
+        "What's the pricing like for iPhone 13 Pro?",
+        "Do you have any information on iPhone 13 Pro pricing?",
+        "Price for iPhone 13 Pro, please?",
+        "Can you give me a quote for iPhone 13 Pro?",
+        "How much do I need to budget for iPhone 13 Pro?",
+        "iPhone 13 Pro - how much does it go for?",
+        "iPhone 13 Pro - what's the cost?",
+        "What's the market price for iPhone 13 Pro?",
+        "How much money should I prepare for iPhone 13 Pro?",
+        "What's the current price for iPhone 13 Pro?",
+        "Can you provide pricing details for iPhone 13 Pro?",
+        "iPhone 13 Pro - how much will it set me back?"
       ],
       "responses": ["The price of Logitech G-Series Gaming Mouse is $39.99."],
       "context_set": ""
@@ -492,239 +571,32 @@
         "talk to you later",
         "ttyl",
         "i got to go",
-        "gtg"
+        "gtg",
+        "farewell",
+        "adios",
+        "catch you later",
+        "take care",
+        "until next time",
+        "so long",
+        "see you soon"
       ],
       "responses": [
         "Sad to see you go :(",
         "Talk to you later",
         "Goodbye!",
-        "Come back soon"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_rules",
-      "questions": [
-        "What are the rules for staying in F-6 properties?",
-        "Tell me about the house rules in F-7.",
-        "Describe the rules and regulations for G-10 rentals.",
-        "What are the property guidelines in G-11?"
-      ],
-      "responses": [
-        "The rules for staying in properties across F-6, F-7, G-10, and G-11 include respecting quiet hours, no smoking indoors, and adhering to community guidelines. Please refer to specific property listings for additional rules."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_availability",
-      "questions": [
-        "Is there availability in F-6 for the next weekend?",
-        "What's the availability status for F-7 properties?",
-        "Tell me about the availability of rentals in G-10.",
-        "Any available properties in G-11 for the upcoming month?"
-      ],
-      "responses": [
-        "To check availability for F-6, F-7, G-10, and G-11, please visit our website and use the search feature to specify your desired dates. Availability is subject to change, so we recommend checking in real-time for the most accurate information."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_pricing",
-      "questions": [
-        "How are rental prices determined in F-6?",
-        "Tell me about the pricing structure for F-7 properties.",
-        "Describe the rental rates for G-10 accommodations.",
-        "What factors influence pricing in G-11?",
-        "How much does it cost to stay in F-6 for a week?",
-        "What is the average nightly rate for F-7 rentals?",
-        "Can you provide information about G-10 pricing for the weekend?",
-        "Tell me about any discounts available in G-11.",
-        "What additional fees should I be aware of in F-6?",
-        "Are there any promotions or offers for F-7 properties?"
-      ],
-      "responses": [
-        "Rental prices in F-6, F-7, G-10, and G-11 are determined based on factors such as property type, amenities, location, and current demand. For detailed pricing, please visit our website and explore specific property listings. Prices may vary based on the duration of stay and other factors."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_features",
-      "questions": [
-        "What features are common in F-6 houses?",
-        "Describe the key features of F-7 properties.",
-        "Tell me about the features of G-10 rentals.",
-        "What unique features can be found in G-11 accommodations?",
-        "Are there pet-friendly features in F-6 properties?",
-        "What security features are available in F-7 houses?",
-        "Tell me about the kitchen features in G-10 rentals.",
-        "Are there smart home features in G-11 accommodations?",
-        "Describe the parking facilities in F-6 properties.",
-        "Tell me about the outdoor features of F-7 rentals."
-      ],
-      "responses": [
-        "Common features in properties across F-6, F-7, G-10, and G-11 include [list of common features]. Specific features may vary by property, so we recommend checking individual listings for detailed information."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_reviews",
-      "questions": [
-        "Can you share reviews for F-6 properties?",
-        "Tell me about guest feedback for F-7 houses.",
-        "Describe the ratings and reviews for G-10 rentals.",
-        "What are guests saying about accommodations in G-11?",
-        "How can I view reviews for a specific property in F-6?",
-        "What is the overall rating for F-7 properties?",
-        "Can you provide guest testimonials for G-10 rentals?",
-        "Tell me about the recent reviews for G-11 accommodations.",
-        "Are there any highly recommended properties in F-6?",
-        "What do guests appreciate about F-7 rentals?"
-      ],
-      "responses": [
-        "For reviews on properties in F-6, F-7, G-10, and G-11, please visit our website and navigate to the property listings. Guests often share their experiences, ratings, and feedback. The overall rating for each property is prominently displayed on the listing."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_rules",
-      "questions": [
-        "What are the rules for staying in F-6 properties?",
-        "Tell me about the house rules in F-7.",
-        "Describe the rules and regulations for G-10 rentals.",
-        "What are the property guidelines in G-11?"
-      ],
-      "responses": [
-        "The rules for staying in properties across F-6, F-7, G-10, and G-11 include respecting quiet hours, no smoking indoors, and adhering to community guidelines. Please refer to specific property listings for additional rules."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_booking",
-      "questions": [
-        "How can I book a property in F-6?",
-        "What's the process of booking in F-7?",
-        "Tell me about booking in G-10.",
-        "How to reserve a house in G-11?"
-      ],
-      "responses": [
-        "To book a property in F-6, F-7, G-10, and G-11, please visit our website and follow the booking process. You can explore available properties, select your desired dates, and complete the reservation. If you need assistance, our customer support is available to help you through the process."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_types",
-      "questions": [
-        "What types of houses are available in F-6?",
-        "Tell me about F-7 property options.",
-        "Describe G-10 rental types.",
-        "What are the property types in G-11?"
-      ],
-      "responses": [
-        "In F-6, you can find various types of houses, including apartments, villas, and townhouses. F-7 offers a range of property options, such as apartments, houses, and penthouses. G-10 rental types include apartments, duplexes, and single-family homes. G-11 properties come in different types, including apartments and independent houses."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_neighborhood",
-      "questions": [
-        "Tell me about the neighborhood in F-6.",
-        "What's the vibe of F-7 neighborhood?",
-        "Describe G-10 surroundings.",
-        "Share insights about G-11 locality."
-      ],
-      "responses": [
-        "F-6 neighborhood is known for its [mention notable features]. F-7 has a vibrant neighborhood with [describe characteristics]. G-10 surroundings offer [highlight notable aspects]. G-11 locality is known for [mention key features]."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_check_in_out",
-      "questions": [
-        "What time is the check-in and check-out in F-6 properties?",
-        "Can I request early check-in in F-7 houses?",
-        "Tell me about the check-in and check-out times in G-10 rentals.",
-        "Is there flexibility in check-in/out times for G-11 accommodations?"
-      ],
-      "responses": [
-        "Check-in and check-out times vary by property. For F-6, F-7, G-10, and G-11, you can find this information in the property listings. Some properties may offer flexibility in check-in and check-out times upon request. Please check with the specific property for details."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_special_requests",
-      "questions": [
-        "Is it possible to have a pet-friendly accommodation in F-6?",
-        "Can I request a crib for my stay in F-7?",
-        "Tell me about special requests in G-10 rentals.",
-        "Are there any additional services available in G-11 accommodations?"
-      ],
-      "responses": [
-        "Certainly! Many properties in F-6 offer pet-friendly accommodations. For F-7, you can request a crib for your stay. In G-10, special requests are accommodated based on availability. G-11 accommodations may offer additional"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_pricing_details",
-      "questions": [
-        "What are the nightly rates for RentAI in F-6?",
-        "Tell me about the pricing details for F-7 properties on RentAI.",
-        "Describe the cost of staying in G-10 rentals through RentAI.",
-        "Can you provide information about the weekly rates for RentAI in G-11?"
-      ],
-      "responses": [
-        "For RentAI properties in F-6, F-7, G-10, and G-11, the nightly rates vary based on factors such as property type, amenities, and demand. Please visit the RentAI app for detailed pricing information. Weekly rates are available, and you can find this information during the booking process."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_booking_confirm",
-      "questions": [
-        "How do I confirm my booking on RentAI in F-6?",
-        "Tell me about the confirmation process for F-7 properties on RentAI.",
-        "Describe the steps to confirm a booking in G-10 rentals through RentAI.",
-        "Is there a confirmation email for bookings made on RentAI in G-11?"
-      ],
-      "responses": [
-        "To confirm your booking on RentAI in F-6, F-7, G-10, and G-11, simply complete the booking process on the app. You will receive a confirmation email with details about your reservation. Please review the confirmation for accuracy, and feel free to contact RentAI support if you have any questions."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_reviews",
-      "questions": [
-        "Can you share reviews for RentAI properties in F-6?",
-        "Tell me about guest feedback for RentAI houses in F-7.",
-        "Describe the ratings and reviews for RentAI rentals in G-10.",
-        "What are guests saying about RentAI accommodations in G-11?"
-      ],
-      "responses": [
-        "RentAI properties in F-6, F-7, G-10, and G-11 receive positive reviews for various aspects. Guests often share their experiences, ratings, and feedback on the RentAI app. You can view reviews for each property on the app to make informed decisions about your stay."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_amenities",
-      "questions": [
-        "Tell me about amenities in RentAI properties in F-6.",
-        "What facilities are available in RentAI houses in F-7?",
-        "Describe amenities in RentAI rentals in G-10.",
-        "What features do RentAI accommodations have in G-11?"
-      ],
-      "responses": [
-        "RentAI properties in F-6 offer amenities such as [list of amenities]. In F-7 houses, you can find facilities like [list of facilities]. G-10 rentals through RentAI include amenities such as [list of amenities]. RentAI accommodations in G-11 feature amenities like [list of features]."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_availability",
-      "questions": [
-        "Is there availability on RentAI in F-6 for the next weekend?",
-        "What's the availability status for RentAI properties in F-7?",
-        "Tell me about the availability of RentAI rentals in G-10.",
-        "Any available properties on RentAI in G-11 for the upcoming month?"
-      ],
-      "responses": [
-        "To check availability for RentAI properties in F-6, F-7, G-10, and G-11, please use the RentAI app and specify your desired dates. Availability is subject to change, so we recommend checking in real-time for the most accurate information."
+        "Come back soon",
+        "See you next time!",
+        "Take care!",
+        "Farewell!",
+        "Until we meet again!",
+        "Have a great day!",
+        "Goodbye for now!",
+        "Adios!",
+        "Catch you later!",
+        "Bye bye, take care!",
+        "So long, partner!",
+        "Safe travels!",
+        "Take it easy!"
       ],
       "context_set": ""
     }
