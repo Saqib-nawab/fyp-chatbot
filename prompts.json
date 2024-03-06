@@ -599,6 +599,71 @@
         "Take it easy!"
       ],
       "context_set": ""
+    },
+    {
+      "tag": "Payment Methods",
+      "questions": [
+        "How can I pay?",
+        "What payment methods do you accept?",
+        "Do you accept PayPal?",
+        "Can I pay with cash on delivery?",
+        "What are my payment options?",
+        "Is PayPal accepted for transactions?",
+        "Can I use credit/debit cards for payment?",
+        "Do you offer payment plans?",
+        "What currencies do you accept?",
+        "Can I pay using mobile payment apps?",
+        "Do you accept bank transfers?",
+        "Do you accept international payments?",
+        "Can I split payment between multiple methods?"
+      ],
+      "responses": [
+        "We accept PayPal, credit/debit cards, and cash on delivery as payment methods.",
+        "Yes, we accept PayPal for transactions.",
+        "You can choose between PayPal or cash on delivery for payment.",
+        "Yes, cash on delivery is available for selected areas.",
+        "Our payment options include PayPal, credit/debit cards, and cash on delivery.",
+        "Yes, you can pay using credit/debit cards.",
+        "We offer cash on delivery and various online payment methods.",
+        "We don't currently offer payment plans.",
+        "We accept payments in multiple currencies.",
+        "We accept payments through selected mobile payment apps.",
+        "We do not accept bank transfers at this time.",
+        "Yes, we accept international payments.",
+        "We do not currently support split payments."
+      ]
+    },
+    {
+      "tag": "Payment Policies",
+      "questions": [
+        "What is your payment policy?",
+        "Are there any additional fees for certain payment methods?",
+        "Are there any restrictions on payment methods?",
+        "What happens if I need to cancel or change my payment method?",
+        "Is there a deadline for payment?",
+        "What happens if my payment fails?",
+        "What is your refund policy?"
+      ],
+      "responses": [
+        "Our payment policy ensures secure and convenient transactions.",
+        "There may be additional fees for certain payment methods. Please check our website for details.",
+        "Please check our website for any restrictions on payment methods.",
+        "If you need to cancel or change your payment method, please contact customer service.",
+        "Payment is typically due upon order placement.",
+        "If your payment fails, please contact your bank or try another payment method.",
+        "Please review our refund policy on our website."
+      ]
+    },
+    {
+      "tag": "Transaction Process",
+      "questions": [
+        "How do I complete the transaction?",
+        "What are the steps to make a payment?"
+      ],
+      "responses": [
+        "To complete the transaction, select your preferred payment method at checkout.",
+        "To make a payment, proceed to checkout and follow the instructions."
+      ]
     }
   ]
 }
