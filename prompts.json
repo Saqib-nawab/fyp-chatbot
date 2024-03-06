@@ -1,0 +1,511 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "questions": [
+        "Hi",
+        "How are you?",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "What's up",
+        "how are ya",
+        "heyy",
+        "whatsup",
+        "??? ??? ??"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "creator",
+      "questions": [
+        "what is the name of your developers",
+        "what is the name of your creators",
+        "what is the name of the developers",
+        "what is the name of the creators",
+        "who created you",
+        "your developers",
+        "your creators",
+        "who are your developers",
+        "developers",
+        "you are made by",
+        "you are made by whom",
+        "who created you",
+        "who create you",
+        "creators",
+        "who made you",
+        "who designed you"
+      ],
+      "responses": ["Made By: Team Emoti-Commerce"],
+      "context_set": ""
+    },
+    {
+      "tag": "name",
+      "questions": [
+        "name",
+        "your name",
+        "do you have a name",
+        "what are you called",
+        "what is your name",
+        "what should I call you",
+        "whats your name?",
+        "what are you",
+        "who are you",
+        "who is this",
+        "what am i chatting to",
+        "who am i taking to",
+        "what are you"
+      ],
+      "responses": ["You can call me Emoti-Commerce.", "I am your Property Agent"],
+      "context_set": ""
+    },
+    {
+      "tag": "general",
+      "questions": [
+        "What rental properties are available in Islamabad?",
+        "What types of rental properties are commonly available?",
+        "Tell me about the rental properties available in Islamabad?",
+        "Can you give an overview of the available rental properties in Islamabad?",
+        "What kind of rental options can I find in Islamabad?",
+        "Describe the rental properties I can find in Islamabad.",
+        "Give me information on the current rental property options in Islamabad.",
+        "I'm looking for details on the rental properties in Islamabad. Can you help?",
+        "Provide insights into the rental properties currently listed in Islamabad.",
+        "What are my options for rental properties in Islamabad?"
+      ],
+      "responses": [
+        "Rental properties in Islamabad range from apartments in residential sectors to houses in various neighborhoods. The availability changes frequently, so it's advisable to check our platform for the latest listings.",
+        "Common rental properties in Islamabad include apartments, houses, and commercial spaces. Apartments range from one to three bedrooms, while houses can vary in size and features. Commercial spaces are available in business districts.",
+        "Rental options in Islamabad are diverse, including apartments, houses, and commercial spaces. It's recommended to explore our platform for up-to-date information.",
+        "In Islamabad, you can find a variety of rental properties, such as apartments, houses, and commercial spaces. The market is dynamic, so it's best to explore available listings on our platform."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "location_recommendation",
+      "questions": [
+        "Where should I rent a property in Islamabad?",
+        "Which sector of Islamabad is the best for rental properties?",
+        "Can you recommend a suitable location for renting a property in Islamabad?",
+        "Tell me about the most recommended sectors for rental properties in Islamabad.",
+        "In your opinion, which sector of Islamabad is ideal for renting a property?",
+        "What are the popular sectors in Islamabad for renting properties?",
+        "Can you suggest the best areas to consider for renting a property in Islamabad?",
+        "Which sectors are commonly preferred for renting properties in Islamabad?",
+        "If I want to rent a property, which sector in Islamabad would you recommend?",
+        "Where can I find the most favorable rental properties in Islamabad?"
+      ],
+      "responses": [
+        "The choice of where to rent in Islamabad depends on your preferences and needs. Consider factors such as proximity to work, amenities, and safety when making a decision.",
+        "Determining the best sector for rental properties in Islamabad depends on your specific requirements. Factors to consider include proximity to workplaces, amenities, and your lifestyle preferences.",
+        "For renting a property in Islamabad, consider sectors like F-6, F-7, G-10, and G-11. These areas are well-established and offer a range of amenities.",
+        "The most recommended sectors for rental properties in Islamabad include F-6, F-7, G-10, and G-11. These areas are known for their amenities, safety, and overall quality of living.",
+        "In my opinion, sectors like F-6, F-7, G-10, and G-11 are ideal for renting properties in Islamabad. They offer a good balance of amenities and accessibility.",
+        "Popular sectors in Islamabad for renting properties include F-6, F-7, G-10, and G-11. These areas are well-regarded for their amenities and residential features.",
+        "Consider areas like F-6, F-7, G-10, and G-11 when looking for rental properties in Islamabad. These sectors are known for their favorable living conditions.",
+        "Commonly preferred sectors for renting properties in Islamabad are F-6, F-7, G-10, and G-11. These areas offer a mix of amenities and a comfortable living environment.",
+        "If you're looking to rent a property in Islamabad, I recommend considering sectors like F-6, F-7, G-10, and G-11. These sectors are known for their residential quality and amenities.",
+        "To find the most favorable rental properties in Islamabad, explore sectors like F-6, F-7, G-10, and G-11. These areas offer a desirable living experience."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "hotel_recommendation",
+      "questions": [
+        "Recommend me some good hotels in Islamabad.",
+        "Which sector of Islamabad is the best for hotels?",
+        "Can you suggest high-rated hotels for a stay in Islamabad?",
+        "Tell me about the top-rated hotels in Islamabad.",
+        "In your opinion, which sector of Islamabad has the best hotels?",
+        "What are the recommended hotels for a comfortable stay in Islamabad?",
+        "Can you provide a list of well-reviewed hotels in Islamabad?",
+        "Which sectors are known for having the best hotel accommodations in Islamabad?",
+        "If I want to stay in a good hotel, which sector in Islamabad would you recommend?",
+        "Where can I find highly recommended hotels for a stay in Islamabad?"
+      ],
+      "responses": [
+        "For good hotels in Islamabad, consider options like Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. These are well-known for their services and amenities.",
+        "The best sector for hotels in Islamabad varies based on preferences. However, sectors like F-6 and G-5 are known for hosting reputable hotels with excellent accommodations.",
+        "Highly-rated hotels for a stay in Islamabad include Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. These establishments are known for their quality service and amenities.",
+        "Top-rated hotels in Islamabad include Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. These hotels offer a comfortable and luxurious stay.",
+        "In my opinion, sectors like F-6 and G-5 have the best hotels in Islamabad. These areas are central and have a concentration of reputable hotel accommodations.",
+        "Recommended hotels for a comfortable stay in Islamabad include Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. These establishments are well-reviewed for their services.",
+        "Well-reviewed hotels in Islamabad include Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. Consider these options for a pleasant stay.",
+        "Sectors known for having the best hotel accommodations in Islamabad include F-6 and G-5. These areas feature reputable hotels with excellent services and facilities.",
+        "If you want to stay in a good hotel in Islamabad, I recommend exploring options in sectors like F-6 and G-5. These sectors are known for their quality hotel accommodations.",
+        "To find highly recommended hotels for a stay in Islamabad, explore options in sectors like F-6 and G-5. These areas are known for hosting reputable and comfortable hotels."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "safety_and_amenities",
+      "questions": [
+        "Tell me about the safety and amenities in Islamabad.",
+        "Which areas of Islamabad are known for family-friendly neighborhoods?",
+        "What safety measures are in place in Islamabad?",
+        "Describe the safety features of living in Islamabad.",
+        "Are there security services available in residential areas of Islamabad?",
+        "Tell me about the amenities offered in different sectors of Islamabad.",
+        "Which sectors in Islamabad have a reputation for safety?",
+        "What are the common amenities available in residential areas of Islamabad?",
+        "Can you provide insights into the family-friendly features of Islamabad neighborhoods?",
+        "Which neighborhoods in Islamabad are suitable for families due to safety and amenities?"
+      ],
+      "responses": [
+        "Islamabad is known for its overall safety, with well-planned neighborhoods and a focus on security. The city offers a range of amenities, including parks, schools, and healthcare facilities.",
+        "Family-friendly neighborhoods in Islamabad include sectors like F-6, F-7, G-10, and G-11. These areas offer good schools, parks, and a safe environment for families.",
+        "Safety in Islamabad is a priority, with measures such as gated communities, security personnel, and surveillance systems in place.",
+        "Living in Islamabad provides a secure environment with features like gated communities, 24/7 security, and well-maintained public spaces.",
+        "Many residential areas in Islamabad have security services, including guards and surveillance, contributing to a safe living environment.",
+        "Different sectors in Islamabad offer various amenities, including parks, shopping centers, and healthcare facilities. The availability may vary, so it's recommended to explore specific sectors for detailed information.",
+        "Sectors like F-6, F-7, and G-11 are known for their safety, with well-established security measures in place.",
+        "Common amenities in residential areas of Islamabad include parks, schools, hospitals, and shopping centers, contributing to a comfortable living experience.",
+        "Family-friendly features in Islamabad neighborhoods include proximity to schools, parks, and recreational areas, creating a conducive environment for families.",
+        "Neighborhoods like F-6, F-7, and G-10 are suitable for families due to their safety features and the availability of amenities like schools and parks."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "rent_pricing",
+      "questions": [
+        "What is the average rent of a house in Islamabad?",
+        "Can you provide information on rental rates in different sectors of Islamabad?",
+        "Tell me about the average rental costs for houses in Islamabad.",
+        "What is the typical rent for houses in different sectors of Islamabad?",
+        "Provide insights into the rental rates for houses in Islamabad.",
+        "Can you give me an overview of the cost of renting a house in Islamabad?",
+        "What are the current rental prices for houses in different sectors of Islamabad?",
+        "Tell me about the variation in rental rates for houses across different sectors in Islamabad.",
+        "Provide information on the average cost of renting houses in various sectors of Islamabad.",
+        "What are the trends in rental prices for houses in Islamabad?"
+      ],
+      "responses": [
+        "The average rent for houses in Islamabad varies depending on the sector, size, and features. As of now, it ranges from PKR 40,000 to PKR 100,000 or more per month.",
+        "Rental rates for houses in different sectors of Islamabad vary. Generally, prime sectors like F-6, F-7, and G-11 may have higher rates compared to other areas. Online real estate platforms or local agents can provide detailed information on current rates.",
+        "For houses in Islamabad, the average rent falls within the range of PKR 40,000 to PKR 100,000 or more per month, depending on the sector and amenities.",
+        "The typical rent for houses in different sectors of Islamabad varies. It's advisable to check online platforms or consult with local real estate agents for accurate and up-to-date information.",
+        "Insights into the rental rates for houses in Islamabad show a range of PKR 40,000 to PKR 100,000 or more per month, with variations across sectors.",
+        "The cost of renting a house in Islamabad typically ranges from PKR 40,000 to PKR 100,000 or more per month, depending on the sector, size, and amenities. It's essential to consider these factors for more precise information.",
+        "Current rental prices for houses in different sectors of Islamabad may vary. For the latest information, explore online platforms or reach out to local real estate agents.",
+        "There is variation in rental rates for houses across different sectors in Islamabad. Prime sectors like F-6, F-7, and G-11 may have higher rates, while others may be more affordable."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "hotel_pricing",
+      "questions": [
+        "Can you provide information on hotel rates in different sectors of Islamabad?",
+        "Tell me about the average per night stay for hotels in Islamabad.",
+        "What are the rates for hotels in different sectors of Islamabad?",
+        "Can you give me an overview of hotel pricing in various sectors of Islamabad?",
+        "Provide insights into the cost of staying in hotels across different sectors of Islamabad.",
+        "Tell me about the variation in hotel rates for different sectors in Islamabad.",
+        "Give me information on the average cost of a per-night stay in hotels in Islamabad.",
+        "What is the average pricing for hotels in different sectors of Islamabad?",
+        "Can you provide details on the range of hotel rates in Islamabad?",
+        "Tell me about the trends in hotel pricing across various sectors in Islamabad."
+      ],
+      "responses": [
+        "The average per night stay for hotels in Islamabad varies depending on the sector and the type of accommodation. Generally, rates range from PKR 10,000 to PKR 25,000 or more.",
+        "The variation in hotel rates for different sectors in Islamabad is influenced by factors such as location and amenities.",
+        "The average cost of a per-night stay in hotels in Islamabad ranges from PKR 10,000 to PKR 25,000 or more, depending on the sector and the type of accommodation."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_inspection",
+      "questions": [
+        "How should I prepare for a property inspection?",
+        "What are the key things to look for during a property visit?",
+        "Can you guide me on preparing for a property inspection?",
+        "What steps should I take before a property visit to make it effective?",
+        "Give me tips on preparing for a property inspection.",
+        "When getting ready for a property visit, what aspects should I consider?",
+        "What should be on my checklist when preparing for a property inspection?",
+        "How can I ensure a thorough property inspection preparation?",
+        "Tell me about the best practices for preparing for a property inspection.",
+        "What are the recommended preparations before going for a property visit?"
+      ],
+      "responses": [
+        "Prepare for a property inspection by making a checklist of your requirements and questions for the landlord or agent.",
+        "During a property visit, focus on checking for any damages, the condition of appliances, and the overall maintenance of the property."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "legal_documentation",
+      "questions": [
+        "What documents are typically required for renting a property in Islamabad?",
+        "Can you explain the process of lease registration in Islamabad?",
+        "Tell me about the common documents needed for renting a property in Islamabad.",
+        "What paperwork is usually required when renting a property in Islamabad?",
+        "Provide information on the standard documents needed for property rental in Islamabad.",
+        "Can you list the documents that landlords typically request for renting a property in Islamabad?",
+        "Explain the documentation process for renting a property in Islamabad.",
+        "What are the usual requirements for document verification when renting a property in Islamabad?",
+        "Give an overview of the paperwork involved in renting a property in Islamabad.",
+        "How does the lease registration process work in Islamabad?"
+      ],
+      "responses": [
+        "Typically, you'll need proof of identity, proof of income, and a security deposit when renting a property in Islamabad.",
+        "The lease registration process involves submitting the lease agreement to the relevant authorities. It helps formalize the rental arrangement."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "goodbye",
+      "questions": [
+        "cya",
+        "see you",
+        "bye bye",
+        "See you later",
+        "Goodbye",
+        "I am Leaving",
+        "Bye",
+        "Have a Good day",
+        "talk to you later",
+        "ttyl",
+        "i got to go",
+        "gtg"
+      ],
+      "responses": [
+        "Sad to see you go :(",
+        "Talk to you later",
+        "Goodbye!",
+        "Come back soon"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_rules",
+      "questions": [
+        "What are the rules for staying in F-6 properties?",
+        "Tell me about the house rules in F-7.",
+        "Describe the rules and regulations for G-10 rentals.",
+        "What are the property guidelines in G-11?"
+      ],
+      "responses": [
+        "The rules for staying in properties across F-6, F-7, G-10, and G-11 include respecting quiet hours, no smoking indoors, and adhering to community guidelines. Please refer to specific property listings for additional rules."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_availability",
+      "questions": [
+        "Is there availability in F-6 for the next weekend?",
+        "What's the availability status for F-7 properties?",
+        "Tell me about the availability of rentals in G-10.",
+        "Any available properties in G-11 for the upcoming month?"
+      ],
+      "responses": [
+        "To check availability for F-6, F-7, G-10, and G-11, please visit our website and use the search feature to specify your desired dates. Availability is subject to change, so we recommend checking in real-time for the most accurate information."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_pricing",
+      "questions": [
+        "How are rental prices determined in F-6?",
+        "Tell me about the pricing structure for F-7 properties.",
+        "Describe the rental rates for G-10 accommodations.",
+        "What factors influence pricing in G-11?",
+        "How much does it cost to stay in F-6 for a week?",
+        "What is the average nightly rate for F-7 rentals?",
+        "Can you provide information about G-10 pricing for the weekend?",
+        "Tell me about any discounts available in G-11.",
+        "What additional fees should I be aware of in F-6?",
+        "Are there any promotions or offers for F-7 properties?"
+      ],
+      "responses": [
+        "Rental prices in F-6, F-7, G-10, and G-11 are determined based on factors such as property type, amenities, location, and current demand. For detailed pricing, please visit our website and explore specific property listings. Prices may vary based on the duration of stay and other factors."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_features",
+      "questions": [
+        "What features are common in F-6 houses?",
+        "Describe the key features of F-7 properties.",
+        "Tell me about the features of G-10 rentals.",
+        "What unique features can be found in G-11 accommodations?",
+        "Are there pet-friendly features in F-6 properties?",
+        "What security features are available in F-7 houses?",
+        "Tell me about the kitchen features in G-10 rentals.",
+        "Are there smart home features in G-11 accommodations?",
+        "Describe the parking facilities in F-6 properties.",
+        "Tell me about the outdoor features of F-7 rentals."
+      ],
+      "responses": [
+        "Common features in properties across F-6, F-7, G-10, and G-11 include [list of common features]. Specific features may vary by property, so we recommend checking individual listings for detailed information."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_reviews",
+      "questions": [
+        "Can you share reviews for F-6 properties?",
+        "Tell me about guest feedback for F-7 houses.",
+        "Describe the ratings and reviews for G-10 rentals.",
+        "What are guests saying about accommodations in G-11?",
+        "How can I view reviews for a specific property in F-6?",
+        "What is the overall rating for F-7 properties?",
+        "Can you provide guest testimonials for G-10 rentals?",
+        "Tell me about the recent reviews for G-11 accommodations.",
+        "Are there any highly recommended properties in F-6?",
+        "What do guests appreciate about F-7 rentals?"
+      ],
+      "responses": [
+        "For reviews on properties in F-6, F-7, G-10, and G-11, please visit our website and navigate to the property listings. Guests often share their experiences, ratings, and feedback. The overall rating for each property is prominently displayed on the listing."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_rules",
+      "questions": [
+        "What are the rules for staying in F-6 properties?",
+        "Tell me about the house rules in F-7.",
+        "Describe the rules and regulations for G-10 rentals.",
+        "What are the property guidelines in G-11?"
+      ],
+      "responses": [
+        "The rules for staying in properties across F-6, F-7, G-10, and G-11 include respecting quiet hours, no smoking indoors, and adhering to community guidelines. Please refer to specific property listings for additional rules."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_booking",
+      "questions": [
+        "How can I book a property in F-6?",
+        "What's the process of booking in F-7?",
+        "Tell me about booking in G-10.",
+        "How to reserve a house in G-11?"
+      ],
+      "responses": [
+        "To book a property in F-6, F-7, G-10, and G-11, please visit our website and follow the booking process. You can explore available properties, select your desired dates, and complete the reservation. If you need assistance, our customer support is available to help you through the process."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_types",
+      "questions": [
+        "What types of houses are available in F-6?",
+        "Tell me about F-7 property options.",
+        "Describe G-10 rental types.",
+        "What are the property types in G-11?"
+      ],
+      "responses": [
+        "In F-6, you can find various types of houses, including apartments, villas, and townhouses. F-7 offers a range of property options, such as apartments, houses, and penthouses. G-10 rental types include apartments, duplexes, and single-family homes. G-11 properties come in different types, including apartments and independent houses."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_neighborhood",
+      "questions": [
+        "Tell me about the neighborhood in F-6.",
+        "What's the vibe of F-7 neighborhood?",
+        "Describe G-10 surroundings.",
+        "Share insights about G-11 locality."
+      ],
+      "responses": [
+        "F-6 neighborhood is known for its [mention notable features]. F-7 has a vibrant neighborhood with [describe characteristics]. G-10 surroundings offer [highlight notable aspects]. G-11 locality is known for [mention key features]."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_check_in_out",
+      "questions": [
+        "What time is the check-in and check-out in F-6 properties?",
+        "Can I request early check-in in F-7 houses?",
+        "Tell me about the check-in and check-out times in G-10 rentals.",
+        "Is there flexibility in check-in/out times for G-11 accommodations?"
+      ],
+      "responses": [
+        "Check-in and check-out times vary by property. For F-6, F-7, G-10, and G-11, you can find this information in the property listings. Some properties may offer flexibility in check-in and check-out times upon request. Please check with the specific property for details."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_special_requests",
+      "questions": [
+        "Is it possible to have a pet-friendly accommodation in F-6?",
+        "Can I request a crib for my stay in F-7?",
+        "Tell me about special requests in G-10 rentals.",
+        "Are there any additional services available in G-11 accommodations?"
+      ],
+      "responses": [
+        "Certainly! Many properties in F-6 offer pet-friendly accommodations. For F-7, you can request a crib for your stay. In G-10, special requests are accommodated based on availability. G-11 accommodations may offer additional"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_pricing_details",
+      "questions": [
+        "What are the nightly rates for RentAI in F-6?",
+        "Tell me about the pricing details for F-7 properties on RentAI.",
+        "Describe the cost of staying in G-10 rentals through RentAI.",
+        "Can you provide information about the weekly rates for RentAI in G-11?"
+      ],
+      "responses": [
+        "For RentAI properties in F-6, F-7, G-10, and G-11, the nightly rates vary based on factors such as property type, amenities, and demand. Please visit the RentAI app for detailed pricing information. Weekly rates are available, and you can find this information during the booking process."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_booking_confirm",
+      "questions": [
+        "How do I confirm my booking on RentAI in F-6?",
+        "Tell me about the confirmation process for F-7 properties on RentAI.",
+        "Describe the steps to confirm a booking in G-10 rentals through RentAI.",
+        "Is there a confirmation email for bookings made on RentAI in G-11?"
+      ],
+      "responses": [
+        "To confirm your booking on RentAI in F-6, F-7, G-10, and G-11, simply complete the booking process on the app. You will receive a confirmation email with details about your reservation. Please review the confirmation for accuracy, and feel free to contact RentAI support if you have any questions."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_reviews",
+      "questions": [
+        "Can you share reviews for RentAI properties in F-6?",
+        "Tell me about guest feedback for RentAI houses in F-7.",
+        "Describe the ratings and reviews for RentAI rentals in G-10.",
+        "What are guests saying about RentAI accommodations in G-11?"
+      ],
+      "responses": [
+        "RentAI properties in F-6, F-7, G-10, and G-11 receive positive reviews for various aspects. Guests often share their experiences, ratings, and feedback on the RentAI app. You can view reviews for each property on the app to make informed decisions about your stay."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_amenities",
+      "questions": [
+        "Tell me about amenities in RentAI properties in F-6.",
+        "What facilities are available in RentAI houses in F-7?",
+        "Describe amenities in RentAI rentals in G-10.",
+        "What features do RentAI accommodations have in G-11?"
+      ],
+      "responses": [
+        "RentAI properties in F-6 offer amenities such as [list of amenities]. In F-7 houses, you can find facilities like [list of facilities]. G-10 rentals through RentAI include amenities such as [list of amenities]. RentAI accommodations in G-11 feature amenities like [list of features]."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "property_availability",
+      "questions": [
+        "Is there availability on RentAI in F-6 for the next weekend?",
+        "What's the availability status for RentAI properties in F-7?",
+        "Tell me about the availability of RentAI rentals in G-10.",
+        "Any available properties on RentAI in G-11 for the upcoming month?"
+      ],
+      "responses": [
+        "To check availability for RentAI properties in F-6, F-7, G-10, and G-11, please use the RentAI app and specify your desired dates. Availability is subject to change, so we recommend checking in real-time for the most accurate information."
+      ],
+      "context_set": ""
+    }
+  ]
+}
