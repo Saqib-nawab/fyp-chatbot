@@ -272,6 +272,50 @@
 },
 
 
+
+{
+  "tag": "logitech_gaming_mouse_description",
+  "questions": [
+    "Logitech G-Series Gaming Mouse?",
+    "Gaming Mouse",
+    "Logitech G Mouse",
+    "Describe logitech",
+    "Features of logitech",
+    "Details of logitech",
+    "mouse",
+    "What is Logitech G-Series Gaming Mouse?",
+    "What can you tell me about the Logitech G-Series Gaming Mouse?",
+    "Describe the Logitech G-Series Gaming Mouse.",
+    "What are the features of the Logitech G-Series Gaming Mouse?",
+    "Can you give me details about the Logitech G-Series Gaming Mouse?",
+    "Tell me about the Logitech Gaming Mouse.",
+    "Is the Logitech G-Series Gaming Mouse available?",
+    "Where can I find the Logitech G-Series Gaming Mouse?",
+    "Is the Gaming Mouse in stock?",
+    "Price of Logitech G-Series Gaming Mouse?",
+    "What is the DPI of the Logitech G-Series Gaming Mouse?",
+    "Does the Logitech Gaming Mouse have customizable RGB lighting?",
+    "What is the polling rate of the Logitech G-Series Gaming Mouse?",
+    "How many buttons does the Logitech G-Series Gaming Mouse have?",
+    "Is the Logitech Gaming Mouse suitable for FPS gaming?",
+    "Does the Logitech G-Series Gaming Mouse come with software for customization?",
+    "What is the weight of the Logitech G-Series Gaming Mouse?",
+    "Can you tell me about the design of the Logitech Gaming Mouse?",
+    "What type of sensor does the Logitech G-Series Gaming Mouse use?",
+    "Does the Logitech Gaming Mouse support onboard memory?",
+    "What accessories come with the Logitech G-Series Gaming Mouse?"
+  ],
+  "responses": [
+    "The Logitech G-Series Gaming Mouse offers high performance and customization for gamers, featuring a high DPI sensor, customizable RGB lighting, programmable buttons, and ergonomic design for comfort during long gaming sessions."
+  ],
+  "context_set": ""
+},
+
+
+
+
+
+
     {
       "tag": "goodbye",
       "questions": [
