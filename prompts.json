@@ -61,202 +61,217 @@
         "who am i taking to",
         "what are you"
       ],
-      "responses": ["You can call me Emoti-Commerce.", "I am your Property Agent"],
+      "responses": ["You can call me Emoti-Commerce.", "I am your Emoti-Commerce Agent", "I am your Emoti-Commerce Agent and i am here to assist you in your shopping"],
       "context_set": ""
     },
-    {
-      "tag": "general",
-      "questions": [
-        "What rental properties are available in Islamabad?",
-        "What types of rental properties are commonly available?",
-        "Tell me about the rental properties available in Islamabad?",
-        "Can you give an overview of the available rental properties in Islamabad?",
-        "What kind of rental options can I find in Islamabad?",
-        "Describe the rental properties I can find in Islamabad.",
-        "Give me information on the current rental property options in Islamabad.",
-        "I'm looking for details on the rental properties in Islamabad. Can you help?",
-        "Provide insights into the rental properties currently listed in Islamabad.",
-        "What are my options for rental properties in Islamabad?"
-      ],
-      "responses": [
-        "Rental properties in Islamabad range from apartments in residential sectors to houses in various neighborhoods. The availability changes frequently, so it's advisable to check our platform for the latest listings.",
-        "Common rental properties in Islamabad include apartments, houses, and commercial spaces. Apartments range from one to three bedrooms, while houses can vary in size and features. Commercial spaces are available in business districts.",
-        "Rental options in Islamabad are diverse, including apartments, houses, and commercial spaces. It's recommended to explore our platform for up-to-date information.",
-        "In Islamabad, you can find a variety of rental properties, such as apartments, houses, and commercial spaces. The market is dynamic, so it's best to explore available listings on our platform."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "location_recommendation",
-      "questions": [
-        "Where should I rent a property in Islamabad?",
-        "Which sector of Islamabad is the best for rental properties?",
-        "Can you recommend a suitable location for renting a property in Islamabad?",
-        "Tell me about the most recommended sectors for rental properties in Islamabad.",
-        "In your opinion, which sector of Islamabad is ideal for renting a property?",
-        "What are the popular sectors in Islamabad for renting properties?",
-        "Can you suggest the best areas to consider for renting a property in Islamabad?",
-        "Which sectors are commonly preferred for renting properties in Islamabad?",
-        "If I want to rent a property, which sector in Islamabad would you recommend?",
-        "Where can I find the most favorable rental properties in Islamabad?"
-      ],
-      "responses": [
-        "The choice of where to rent in Islamabad depends on your preferences and needs. Consider factors such as proximity to work, amenities, and safety when making a decision.",
-        "Determining the best sector for rental properties in Islamabad depends on your specific requirements. Factors to consider include proximity to workplaces, amenities, and your lifestyle preferences.",
-        "For renting a property in Islamabad, consider sectors like F-6, F-7, G-10, and G-11. These areas are well-established and offer a range of amenities.",
-        "The most recommended sectors for rental properties in Islamabad include F-6, F-7, G-10, and G-11. These areas are known for their amenities, safety, and overall quality of living.",
-        "In my opinion, sectors like F-6, F-7, G-10, and G-11 are ideal for renting properties in Islamabad. They offer a good balance of amenities and accessibility.",
-        "Popular sectors in Islamabad for renting properties include F-6, F-7, G-10, and G-11. These areas are well-regarded for their amenities and residential features.",
-        "Consider areas like F-6, F-7, G-10, and G-11 when looking for rental properties in Islamabad. These sectors are known for their favorable living conditions.",
-        "Commonly preferred sectors for renting properties in Islamabad are F-6, F-7, G-10, and G-11. These areas offer a mix of amenities and a comfortable living environment.",
-        "If you're looking to rent a property in Islamabad, I recommend considering sectors like F-6, F-7, G-10, and G-11. These sectors are known for their residential quality and amenities.",
-        "To find the most favorable rental properties in Islamabad, explore sectors like F-6, F-7, G-10, and G-11. These areas offer a desirable living experience."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "hotel_recommendation",
-      "questions": [
-        "Recommend me some good hotels in Islamabad.",
-        "Which sector of Islamabad is the best for hotels?",
-        "Can you suggest high-rated hotels for a stay in Islamabad?",
-        "Tell me about the top-rated hotels in Islamabad.",
-        "In your opinion, which sector of Islamabad has the best hotels?",
-        "What are the recommended hotels for a comfortable stay in Islamabad?",
-        "Can you provide a list of well-reviewed hotels in Islamabad?",
-        "Which sectors are known for having the best hotel accommodations in Islamabad?",
-        "If I want to stay in a good hotel, which sector in Islamabad would you recommend?",
-        "Where can I find highly recommended hotels for a stay in Islamabad?"
-      ],
-      "responses": [
-        "For good hotels in Islamabad, consider options like Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. These are well-known for their services and amenities.",
-        "The best sector for hotels in Islamabad varies based on preferences. However, sectors like F-6 and G-5 are known for hosting reputable hotels with excellent accommodations.",
-        "Highly-rated hotels for a stay in Islamabad include Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. These establishments are known for their quality service and amenities.",
-        "Top-rated hotels in Islamabad include Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. These hotels offer a comfortable and luxurious stay.",
-        "In my opinion, sectors like F-6 and G-5 have the best hotels in Islamabad. These areas are central and have a concentration of reputable hotel accommodations.",
-        "Recommended hotels for a comfortable stay in Islamabad include Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. These establishments are well-reviewed for their services.",
-        "Well-reviewed hotels in Islamabad include Serena Hotel, Pearl Continental Hotel, and Islamabad Marriott Hotel. Consider these options for a pleasant stay.",
-        "Sectors known for having the best hotel accommodations in Islamabad include F-6 and G-5. These areas feature reputable hotels with excellent services and facilities.",
-        "If you want to stay in a good hotel in Islamabad, I recommend exploring options in sectors like F-6 and G-5. These sectors are known for their quality hotel accommodations.",
-        "To find highly recommended hotels for a stay in Islamabad, explore options in sectors like F-6 and G-5. These areas are known for hosting reputable and comfortable hotels."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "safety_and_amenities",
-      "questions": [
-        "Tell me about the safety and amenities in Islamabad.",
-        "Which areas of Islamabad are known for family-friendly neighborhoods?",
-        "What safety measures are in place in Islamabad?",
-        "Describe the safety features of living in Islamabad.",
-        "Are there security services available in residential areas of Islamabad?",
-        "Tell me about the amenities offered in different sectors of Islamabad.",
-        "Which sectors in Islamabad have a reputation for safety?",
-        "What are the common amenities available in residential areas of Islamabad?",
-        "Can you provide insights into the family-friendly features of Islamabad neighborhoods?",
-        "Which neighborhoods in Islamabad are suitable for families due to safety and amenities?"
-      ],
-      "responses": [
-        "Islamabad is known for its overall safety, with well-planned neighborhoods and a focus on security. The city offers a range of amenities, including parks, schools, and healthcare facilities.",
-        "Family-friendly neighborhoods in Islamabad include sectors like F-6, F-7, G-10, and G-11. These areas offer good schools, parks, and a safe environment for families.",
-        "Safety in Islamabad is a priority, with measures such as gated communities, security personnel, and surveillance systems in place.",
-        "Living in Islamabad provides a secure environment with features like gated communities, 24/7 security, and well-maintained public spaces.",
-        "Many residential areas in Islamabad have security services, including guards and surveillance, contributing to a safe living environment.",
-        "Different sectors in Islamabad offer various amenities, including parks, shopping centers, and healthcare facilities. The availability may vary, so it's recommended to explore specific sectors for detailed information.",
-        "Sectors like F-6, F-7, and G-11 are known for their safety, with well-established security measures in place.",
-        "Common amenities in residential areas of Islamabad include parks, schools, hospitals, and shopping centers, contributing to a comfortable living experience.",
-        "Family-friendly features in Islamabad neighborhoods include proximity to schools, parks, and recreational areas, creating a conducive environment for families.",
-        "Neighborhoods like F-6, F-7, and G-10 are suitable for families due to their safety features and the availability of amenities like schools and parks."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "rent_pricing",
-      "questions": [
-        "What is the average rent of a house in Islamabad?",
-        "Can you provide information on rental rates in different sectors of Islamabad?",
-        "Tell me about the average rental costs for houses in Islamabad.",
-        "What is the typical rent for houses in different sectors of Islamabad?",
-        "Provide insights into the rental rates for houses in Islamabad.",
-        "Can you give me an overview of the cost of renting a house in Islamabad?",
-        "What are the current rental prices for houses in different sectors of Islamabad?",
-        "Tell me about the variation in rental rates for houses across different sectors in Islamabad.",
-        "Provide information on the average cost of renting houses in various sectors of Islamabad.",
-        "What are the trends in rental prices for houses in Islamabad?"
-      ],
-      "responses": [
-        "The average rent for houses in Islamabad varies depending on the sector, size, and features. As of now, it ranges from PKR 40,000 to PKR 100,000 or more per month.",
-        "Rental rates for houses in different sectors of Islamabad vary. Generally, prime sectors like F-6, F-7, and G-11 may have higher rates compared to other areas. Online real estate platforms or local agents can provide detailed information on current rates.",
-        "For houses in Islamabad, the average rent falls within the range of PKR 40,000 to PKR 100,000 or more per month, depending on the sector and amenities.",
-        "The typical rent for houses in different sectors of Islamabad varies. It's advisable to check online platforms or consult with local real estate agents for accurate and up-to-date information.",
-        "Insights into the rental rates for houses in Islamabad show a range of PKR 40,000 to PKR 100,000 or more per month, with variations across sectors.",
-        "The cost of renting a house in Islamabad typically ranges from PKR 40,000 to PKR 100,000 or more per month, depending on the sector, size, and amenities. It's essential to consider these factors for more precise information.",
-        "Current rental prices for houses in different sectors of Islamabad may vary. For the latest information, explore online platforms or reach out to local real estate agents.",
-        "There is variation in rental rates for houses across different sectors in Islamabad. Prime sectors like F-6, F-7, and G-11 may have higher rates, while others may be more affordable."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "hotel_pricing",
-      "questions": [
-        "Can you provide information on hotel rates in different sectors of Islamabad?",
-        "Tell me about the average per night stay for hotels in Islamabad.",
-        "What are the rates for hotels in different sectors of Islamabad?",
-        "Can you give me an overview of hotel pricing in various sectors of Islamabad?",
-        "Provide insights into the cost of staying in hotels across different sectors of Islamabad.",
-        "Tell me about the variation in hotel rates for different sectors in Islamabad.",
-        "Give me information on the average cost of a per-night stay in hotels in Islamabad.",
-        "What is the average pricing for hotels in different sectors of Islamabad?",
-        "Can you provide details on the range of hotel rates in Islamabad?",
-        "Tell me about the trends in hotel pricing across various sectors in Islamabad."
-      ],
-      "responses": [
-        "The average per night stay for hotels in Islamabad varies depending on the sector and the type of accommodation. Generally, rates range from PKR 10,000 to PKR 25,000 or more.",
-        "The variation in hotel rates for different sectors in Islamabad is influenced by factors such as location and amenities.",
-        "The average cost of a per-night stay in hotels in Islamabad ranges from PKR 10,000 to PKR 25,000 or more, depending on the sector and the type of accommodation."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "property_inspection",
-      "questions": [
-        "How should I prepare for a property inspection?",
-        "What are the key things to look for during a property visit?",
-        "Can you guide me on preparing for a property inspection?",
-        "What steps should I take before a property visit to make it effective?",
-        "Give me tips on preparing for a property inspection.",
-        "When getting ready for a property visit, what aspects should I consider?",
-        "What should be on my checklist when preparing for a property inspection?",
-        "How can I ensure a thorough property inspection preparation?",
-        "Tell me about the best practices for preparing for a property inspection.",
-        "What are the recommended preparations before going for a property visit?"
-      ],
-      "responses": [
-        "Prepare for a property inspection by making a checklist of your requirements and questions for the landlord or agent.",
-        "During a property visit, focus on checking for any damages, the condition of appliances, and the overall maintenance of the property."
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "legal_documentation",
-      "questions": [
-        "What documents are typically required for renting a property in Islamabad?",
-        "Can you explain the process of lease registration in Islamabad?",
-        "Tell me about the common documents needed for renting a property in Islamabad.",
-        "What paperwork is usually required when renting a property in Islamabad?",
-        "Provide information on the standard documents needed for property rental in Islamabad.",
-        "Can you list the documents that landlords typically request for renting a property in Islamabad?",
-        "Explain the documentation process for renting a property in Islamabad.",
-        "What are the usual requirements for document verification when renting a property in Islamabad?",
-        "Give an overview of the paperwork involved in renting a property in Islamabad.",
-        "How does the lease registration process work in Islamabad?"
-      ],
-      "responses": [
-        "Typically, you'll need proof of identity, proof of income, and a security deposit when renting a property in Islamabad.",
-        "The lease registration process involves submitting the lease agreement to the relevant authorities. It helps formalize the rental arrangement."
-      ],
-      "context_set": ""
-    },
+  {
+  "tag": "products",
+  "questions": [
+    "products?",
+    "What products do you offer?",
+    "What can i buy?",
+    "What items are available in your store?",
+    "Can you tell me about the products you sell?",
+    "What kind of products do you have?",
+    "What are the available items?",
+    "Which products are available for purchase?",
+    "Tell me about the items in your shop.",
+    "What do you have in stock?",
+    "What products can I find on your website?",
+    "List your available products, please."
+  ],
+  "responses": [
+    "We offer a variety of products including Airpods Wireless Bluetooth Headphones, Sony Playstation 5, Amazon Echo Dot 3rd Generation, Cannon EOS 80D DSLR Camera, iPhone 13 Pro 256GB Memory, and Logitech G-Series Gaming Mouse.",
+    "Our store provides an extensive range of products, such as Airpods Wireless Bluetooth Headphones, Sony Playstation 5, Amazon Echo Dot 3rd Generation, Cannon EOS 80D DSLR Camera, iPhone 13 Pro 256GB Memory, and Logitech G-Series Gaming Mouse.",
+    "You can find a wide selection of products on our website, including Airpods Wireless Bluetooth Headphones, Sony Playstation 5, Amazon Echo Dot 3rd Generation, Cannon EOS 80D DSLR Camera, iPhone 13 Pro 256GB Memory, and Logitech G-Series Gaming Mouse."
+  ],
+  "context_set": ""
+},
+
+
+
+{
+  "tag": "airpods_description",
+  "questions": [
+    "Airpods?",
+    "Wireless Airpods?",
+    "Airpods",
+    "Bluetooth",
+    "Wireless",
+    "Description",
+    "Features",
+    "Details",
+    "Tell me about Airpods.",
+    "What can you tell me about Airpods?",
+    "Describe Airpods Wireless Bluetooth Headphones.",
+    "What are the features of Airpods?",
+    "Can you give me details about Wireless Airpods?",
+    "What is the description of Bluetooth Airpods?",
+    "Give me information about Airpods Wireless Headphones."
+  ],
+  "responses": [
+    "Airpods Wireless Bluetooth Headphones feature Bluetooth technology for wireless connectivity, high-quality AAC audio for an immersive listening experience, and a built-in microphone for taking calls while on the go."
+  ],
+  "context_set": ""
+},
+
+
+
+{
+  "tag": "playstation_5_description",
+  "questions": [
+    "Playstation 5?",
+    "PS5",
+    "Sony PS5",
+    "Description",
+    "Features",
+    "Details",
+    "What is Playstation 5?",
+    "What can you tell me about PS5?",
+    "Describe Sony Playstation 5.",
+    "What are the features of Playstation 5?",
+    "Can you give me details about Sony PS5?",
+    "Tell me about the Playstation 5 gaming console.",
+    "What sets Sony Playstation 5 apart?",
+    "Is Playstation 5 available?",
+    "Where can I find Playstation 5?",
+    "Playstation 5 in stock?",
+    "Price of Playstation 5?",
+    "Is PS5 compatible with PS4 games?",
+    "Does PS5 support 4K gaming?",
+    "How many controllers come with PS5?",
+    "What accessories are compatible with Playstation 5?",
+    "Are there any exclusive games for PS5?",
+    "What is the storage capacity of Playstation 5?",
+    "Can you tell me about the design of PS5?",
+    "What are the specifications of Sony Playstation 5?",
+    "Tell me about PS5's backward compatibility.",
+    "Is PS5 backward compatible with PS3 games?",
+    "Does PS5 have a disc drive?"
+  ],
+  "responses": [
+    "The Sony Playstation 5 is a next-generation gaming console featuring powerful hardware, lightning-fast load times, immersive 3D audio, and an innovative DualSense controller for enhanced gameplay experiences."
+  ],
+  "context_set": ""
+},
+
+
+{
+  "tag": "echo_dot_3rd_gen_description",
+  "questions": [
+    "Echo Dot?",
+    "Amazon Echo Dot",
+    "Echo Dot 3rd Generation",
+    "Description",
+    "Features",
+    "Details",
+    "What is Echo Dot?",
+    "What can you tell me about Amazon Echo Dot?",
+    "Describe Echo Dot 3rd Generation.",
+    "What are the features of Echo Dot?",
+    "Can you give me details about Amazon Echo Dot?",
+    "Tell me about the Echo Dot smart speaker.",
+    "Is Echo Dot available?",
+    "Where can I find Echo Dot?",
+    "Echo Dot in stock?",
+    "Price of Echo Dot?",
+    "Is Echo Dot compatible with Alexa?",
+    "What can Echo Dot do?",
+    "How does Echo Dot work?",
+    "Does Echo Dot support voice commands?",
+    "What music services are compatible with Echo Dot?",
+    "Can Echo Dot control smart home devices?",
+    "What is the size of Echo Dot?",
+    "Can you tell me about the design of Echo Dot?",
+    "What are the specifications of Amazon Echo Dot 3rd Generation?",
+    "Tell me about Echo Dot's microphone array.",
+    "What colors does Echo Dot come in?",
+    "Does Echo Dot have a built-in speaker?"
+  ],
+  "responses": [
+    "The Amazon Echo Dot 3rd Generation is a smart speaker powered by Alexa, offering voice control for music, news, weather, and more. It features a compact design, improved speaker quality, and compatibility with various smart home devices."
+  ],
+  "context_set": ""
+},
+
+{
+  "tag": "eos_80d_description",
+  "questions": [
+    "Canon EOS 80D?",
+    "EOS 80D",
+    "Canon 80D DSLR",
+    "Description",
+    "Features",
+    "Details",
+    "What is Canon EOS 80D?",
+    "What can you tell me about the Canon 80D DSLR camera?",
+    "Describe the EOS 80D.",
+    "What are the features of the Canon EOS 80D?",
+    "Can you give me details about the EOS 80D DSLR camera?",
+    "Tell me about the Canon 80D digital camera.",
+    "Is the Canon EOS 80D available?",
+    "Where can I find the Canon EOS 80D?",
+    "Is the EOS 80D in stock?",
+    "Price of Canon EOS 80D?",
+    "What are the specs of the Canon 80D?",
+    "What lenses are compatible with the EOS 80D?",
+    "Does the EOS 80D support 4K video recording?",
+    "What autofocus system does the Canon 80D have?",
+    "Can the Canon EOS 80D connect to Wi-Fi?",
+    "What is the resolution of the Canon 80D's sensor?",
+    "Does the Canon 80D have a touchscreen?",
+    "Tell me about the design of the Canon EOS 80D.",
+    "What accessories come with the Canon 80D?",
+    "Is the Canon 80D weather-sealed?",
+    "Does the Canon EOS 80D have image stabilization?",
+    "What type of memory card does the Canon 80D use?",
+    "Can you tell me about the battery life of the Canon EOS 80D?"
+  ],
+  "responses": [
+    "The Canon EOS 80D DSLR Camera is a versatile and powerful camera, featuring a 24.2-megapixel APS-C CMOS sensor, DIGIC 6 image processor, 45-point all cross-type AF system, and Full HD 1080p video recording capability. It offers built-in Wi-Fi and NFC connectivity, a vari-angle touchscreen LCD, and robust construction suitable for various photography needs."
+  ],
+  "context_set": ""
+},
+
+{
+  "tag": "iphone_13_pro_description",
+  "questions": [
+    "iPhone 13 Pro?",
+    "iPhone 13 Pro 256GB",
+    "Describe iphone 13",
+    "Features of iphone",
+    "Details",
+    "What is iPhone 13 Pro?",
+    "What can you tell me about the iPhone 13 Pro 256GB?",
+    "Describe the iPhone 13 Pro.",
+    "What are the features of the iPhone 13 Pro?",
+    "Can you give me details about the iPhone 13 Pro 256GB?",
+    "Tell me about the iPhone 13 Pro smartphone.",
+    "Is the iPhone 13 Pro available?",
+    "Where can I find the iPhone 13 Pro?",
+    "Is the iPhone 13 Pro in stock?",
+    "Price of iPhone 13 Pro?",
+    "What colors does the iPhone 13 Pro come in?",
+    "What is the storage capacity of the iPhone 13 Pro?",
+    "Does the iPhone 13 Pro support 5G?",
+    "What is the screen size of the iPhone 13 Pro?",
+    "What is the camera configuration of the iPhone 13 Pro?",
+    "Can the iPhone 13 Pro shoot in Dolby Vision?",
+    "What is the battery life of the iPhone 13 Pro?",
+    "Does the iPhone 13 Pro have Face ID?",
+    "Is the iPhone 13 Pro waterproof?",
+    "What accessories come with the iPhone 13 Pro?",
+    "Can you tell me about the design of the iPhone 13 Pro?",
+    "Does the iPhone 13 Pro support wireless charging?",
+    "What operating system does the iPhone 13 Pro run on?"
+  ],
+  "responses": [
+    "The iPhone 13 Pro is a premium smartphone from Apple, featuring a stunning Super Retina XDR display, A15 Bionic chip, advanced camera system with ProRAW and ProRes video recording capabilities, and up to 256GB of storage. It offers 5G connectivity, Face ID for secure authentication, and a sleek design available in various colors."
+  ],
+  "context_set": ""
+},
+
+
     {
       "tag": "goodbye",
       "questions": [
